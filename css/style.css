@@ -508,7 +508,7 @@ button {
 
 .cta-banner-consultation {
   position: relative;
-  min-height: 150vh;
+  min-height: 90vh;
   background: url("../assets/banner.jpeg") center/cover no-repeat;
   display: flex;
   align-items: center;
