@@ -506,6 +506,17 @@ button {
   padding: 40px 20px;
 }
 
+.cta-banner-consultation {
+  position: relative;
+  min-height: 90vh;
+  background: url("../assets/banner.jpeg") center/cover no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 40px 20px;
+}
+
 .cta-overlay {
   position: absolute;
   inset: 0;
